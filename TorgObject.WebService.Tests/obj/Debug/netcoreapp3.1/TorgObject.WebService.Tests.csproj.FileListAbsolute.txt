@@ -1,0 +1,3 @@
+C:\Users\zhori\Documents\ООП\ПРАКТИКА\WebS-Practice1\TorgObject.WebService.Tests\obj\Debug\netcoreapp3.1\TorgObject.WebService.Tests.csprojAssemblyReference.cache
+C:\Users\zhori\Documents\ООП\ПРАКТИКА\WebS-Practice1\TorgObject.WebService.Tests\obj\Debug\netcoreapp3.1\TorgObject.WebService.Tests.AssemblyInfoInputs.cache
+C:\Users\zhori\Documents\ООП\ПРАКТИКА\WebS-Practice1\TorgObject.WebService.Tests\obj\Debug\netcoreapp3.1\TorgObject.WebService.Tests.AssemblyInfo.cs
